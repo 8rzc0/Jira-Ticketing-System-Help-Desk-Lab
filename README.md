@@ -1,4 +1,4 @@
-# Jira Ticketing System Lab
+# Jira Ticketing System Home Lab
 
 ## Objective
 

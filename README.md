@@ -1,19 +1,16 @@
-# Jira Ticketing System Help Desk Lab
+# Jira Ticketing System Lab
 
 ## Objective
 
-The Jira Ticketing System Help Desk Lab was created to build hands-on experience with common Tier 1 IT support tickets. The lab focused on creating and managing support tickets, communicating with users, documenting troubleshooting steps, resolving technical issues, and escalating unresolved issues to Tier 2 support.
+The Jira Ticketing System Lab was created to build hands-on experience with common Tier 1 IT support workflows. The lab focused on managing support tickets, communicating with users, documenting troubleshooting steps, resolving technical issues, and escalating unresolved issues to Tier 2 support.
 
 ### Skills Learned
 
-- Created and managed help desk tickets in Jira Service Management
-- Assigned and prioritized support requests
-- Documented troubleshooting steps using internal notes
-- Communicated with users through customer-facing ticket responses
-- Resolved common account and connectivity issues
-- Practiced ticket escalation to Tier 2 support
-- Organized tickets using components, priorities, and statuses
-- Practiced maintaining clear documentation throughout the ticket lifecycle
+- Created 8 simulated Tier 1 support tickets in Jira Service Management
+- Resolved 2 simulated support issues involving account access and network connectivity
+- Escalated 1 unresolved Windows issue to Tier 2 after completing initial troubleshooting
+- Documented troubleshooting activity using internal notes across 3 ticket scenarios
+- Practiced customer communication through ticket responses
 
 ### Tools Used
 
@@ -23,7 +20,7 @@ The Jira Ticketing System Help Desk Lab was created to build hands-on experience
 
 ### Help Desk Queue
 
-Created a simulated Tier 1 help desk queue containing common IT support requests such as account access issues, password resets, network connectivity problems, software requests, and Windows troubleshooting.
+Created a simulated Tier 1 help desk queue containing common IT support requests. 
 
 <img width="1563" height="676" alt="image" src="https://github.com/user-attachments/assets/6d02e88d-5c41-4f98-a1d6-6b0124ae07db" />
 
@@ -31,7 +28,7 @@ Created a simulated Tier 1 help desk queue containing common IT support requests
 
 ### Account Lockout
 
-Worked an account lockout ticket from initial user request through resolution. Verified the account status, restored access, documented the actions taken, communicated with the user, and closed the ticket after confirming the issue was resolved.
+Resolved an account lockout, documented the fix, and confirmed user access was restored.
 
 <img width="1287" height="752" alt="image" src="https://github.com/user-attachments/assets/92e40072-abbd-4be2-bc85-fabdb5246682" />
 
@@ -47,7 +44,7 @@ Worked an account lockout ticket from initial user request through resolution. V
 
 ### Network Connectivity Troubleshooting
 
-Worked a network connectivity ticket by gathering information from the user, documenting troubleshooting steps, identifying the cause of the issue, and restoring network connectivity.
+Resolved a network connectivity issue by identifying the cause, applying the fix, and verifying connectivity was restored.
 
 <img width="1256" height="840" alt="image" src="https://github.com/user-attachments/assets/dfaf304a-75ca-46d7-9253-2135f5cf3090" />
 
@@ -63,7 +60,7 @@ Worked a network connectivity ticket by gathering information from the user, doc
 
 ### Tier 2 Escalation
 
-Worked a Windows system issue that continued after initial Tier 1 troubleshooting. Documented the troubleshooting performed and escalated the unresolved issue to Tier 2 for further investigation.
+Performed initial Tier 1 troubleshooting on a Windows issue and escalated it to Tier 2 for further investigation.
 
 <img width="1288" height="739" alt="image" src="https://github.com/user-attachments/assets/863a0a7a-b08e-4389-9d21-afec634e7784" />
 
@@ -79,8 +76,8 @@ Worked a Windows system issue that continued after initial Tier 1 troubleshootin
 
 ### Ticket Queue Review
 
-Reviewed the help desk queue to identify open support requests, check ticket status and priority, and determine which issues required attention.
+Reviewed the help desk queue after completing the tickets.
 
 <img width="1227" height="571" alt="image" src="https://github.com/user-attachments/assets/c934e206-1ae1-4be0-a9f2-6b74c1d678cf" />
 
-*Ref 11: Reviewing the open ticket queue before beginning troubleshooting*
+*Ref 11: Verifying final ticket statuses after resolution and escalation*

@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Jira Ticketing System Home Lab was created to build hands-on experience with common Tier 1 IT support workflows. The lab focused on managing support tickets, communicating with users, documenting troubleshooting steps, resolving technical issues, and escalating unresolved issues to Tier 2 support.
+The Jira Ticketing System Home Lab was created to build hands-on experience with common Tier 1 IT support tickets. The lab focused on managing support tickets, communicating with users, documenting troubleshooting steps, resolving technical issues, and escalating unresolved issues to Tier 2 support.
 
 ### Skills Learned
 
